@@ -21,8 +21,8 @@ export default function Home() {
           Website Under Maintenance
         </p>
         <p className="text-white mx-auto font-circularstd text-base text-center">
-          We're currently undergoing some very exciting changes, and we can't
-          wait for you to see.
+          We&apos;re currently undergoing some very exciting changes, and we
+          can&apos;t wait for you to see.
         </p>
         <div className="flex sm:flex-row flex-col text-center sm:text-left divide-y sm:divide-y-0 sm:divide-x divide-white gap-4 justify-center">
           <Link
